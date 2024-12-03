@@ -1,0 +1,14 @@
+[
+  {
+    "username": "John Doe",
+    "public_guid": "guidguid1111"
+  },
+  {
+    "username": "Jane Smith",
+    "public_guid": "user2-guid-456"
+  },
+  {
+    "username": "Bob Wilson",
+    "public_guid": "user3-guid-789"
+  }
+]
